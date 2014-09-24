@@ -10,4 +10,6 @@
 
 @implementation TestSubmoduleCore
 
+// Changing core from within Main.
+
 @end
