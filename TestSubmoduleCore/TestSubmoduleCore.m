@@ -11,5 +11,6 @@
 @implementation TestSubmoduleCore
 
 // Changing core from within Main.
+// Changing core from within Main. 2
 
 @end
